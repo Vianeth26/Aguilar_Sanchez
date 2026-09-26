@@ -1,0 +1,1 @@
+# Aquí se guardarán automáticamente los mensajes enviados desde el formulario de contacto (contacto.html -> guardar.php)
